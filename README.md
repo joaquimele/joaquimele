@@ -1,5 +1,6 @@
-- 👋 Hola! Soy @joaquimele
-- 👀 Estoy interesado en el desarrollo full-stack
-- 🌱 Actualmente estoy aprendiendo librerias del front como React, y a su vez Java, Python y lenguaje de base de datos MySQL
-- En junio del 2021 me contrataron como Técnico en Ciberseguridad y estoy muy feliz por eso, mi objetivo es aprender, crecer como persona y laboralmente.
-  
+- 👋 Hola! Soy @joaquimele.
+- 👀 Estoy interesado en el campo de ciberseguridad y en el desarrollo full-stack.
+- 🌱 Actualmente estoy aprendiendo Java Spring y Python, acompañado del usuario de bases de datos.
+- 👔 En junio del 2021 ingresé al equipo de gestión de identidades de Seguridad Informática como Technician I, logrando en junio de 2022 mi ascenso a Technician II y en enero 2024 mi ascenso a mi actual posición, Tecnician III.
+- 💪 Busco progresar y aprender constantemente, poniendo el foco crítico sobre realizar correctamente una tarea, tratando de no dejar espacios a errores voluntarios y forzados, por eso mi fuerte es mi análisis crítico y pragmático, acompañado de mis ganas por aprender y desarrollarme en tecnologías fuertes como Java y Python.
+- 👨‍🎓En 2024 también mi comencé mi carrera en Licenciatura en Ciberseguridad en la Universidad de Palermo.
